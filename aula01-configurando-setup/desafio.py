@@ -19,3 +19,5 @@ print(f'Olá {nome_completo}, seu bônus final é de R$ {bonus_final:.2f}')
 
 # Bônus: Quantos bugs e riscos você consegue identificar nesse programa?
 # 1) Informar o salário e/ou o percentual de bönus com a vírgula sendo o separador decimal (ex.: 1250,78)
+# 2) A pessoa colocar caracteres não numéricos em variáveis que recebem números
+# 3) A pessoa colocar valores negativos e/ou nem colocar valores
